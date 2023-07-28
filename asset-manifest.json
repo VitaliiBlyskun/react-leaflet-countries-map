@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VitaliiBlyskun/react-leaflet-countries-map.git/static/css/main.473e44fe.css",
+    "main.js": "/VitaliiBlyskun/react-leaflet-countries-map.git/static/js/main.c02daea8.js",
+    "index.html": "/VitaliiBlyskun/react-leaflet-countries-map.git/index.html",
+    "main.473e44fe.css.map": "/VitaliiBlyskun/react-leaflet-countries-map.git/static/css/main.473e44fe.css.map",
+    "main.c02daea8.js.map": "/VitaliiBlyskun/react-leaflet-countries-map.git/static/js/main.c02daea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473e44fe.css",
+    "static/js/main.c02daea8.js"
+  ]
+}
